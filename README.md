@@ -6,4 +6,5 @@
 - **phatHead**: pH meter
 - **tube racks**
 - **cryoJason**: UV box
+- **Blue light**
 - **misc**
